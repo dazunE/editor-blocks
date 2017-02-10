@@ -22,6 +22,6 @@
 		schema: 'html5-strict',
 		selector: '#content',
 		theme: false,
-		toolbar: false
+		toolbar: true
 	})
 })(window.tinymce)
